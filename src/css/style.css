@@ -93,5 +93,9 @@ header #logo{
     border-radius: 50%;
     background-image: linear-gradient(orange,black);
 }
-
+footer{
+    margin-top: 70vh;
+    display: flex;
+    justify-content: center;
+}
 
