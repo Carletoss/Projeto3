@@ -39,6 +39,7 @@ body{
 #texto{
     font: size 1.5rem;
     animation:efeito 1s ease-in-out ;
+    opacity: 0;
 }
 
 @keyframes efeito {
